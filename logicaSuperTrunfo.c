@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 // Desafio Super Trunfo - Países
-// Tema 2 - Comparação das Cartas
+// Tema 2ão das variáveis para armazenar as propriedades das cidades - Comparação das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de comparação de cartas de cidades. 
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
-    // Definição das variáveis para armazenar as propriedades das cidades
+    printf("desafio xadrez \n"); 
     // Você pode utilizar o código do primeiro desafio
 
     
